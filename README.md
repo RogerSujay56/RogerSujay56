@@ -1,5 +1,5 @@
 # About Me 🚀
-
+## Hi, I’m Sujay Jagadale <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> 
 👋 Hi there! I'm Sujay Jagadale, a passionate Python Developer based in Pune, MH India 🇮🇳. I'm an aspiring AI and Data Science Enthusiast, eager to shape the future with my Python expertise. Currently, I'm working as a Python Developer at BirdVision Consulting Pvt Ltd, where I've been involved in pioneering innovative Chatbot solutions for WhatsApp integration. My work involves utilizing Natural Language Processing and AI approaches to improve client engagement and increase efficiency. I've also developed a Voice Ordering Platform for a Retail Chain hosted on WhatsApp, offering a smooth multilingual experience in English, Nepali, and Bengali. With a strong understanding of deep learning algorithms and neural networks, I specialize in computer vision tasks like Object Detection and Image Classification. Additionally, I'm well-versed in cloud platforms like AWS and GCP for scalable AI and data science solutions.
 
 ## Tech Stack<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
