@@ -37,7 +37,7 @@
     <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
   </a>
   <a href="https://www.mysql.com/">
-    <img alt="MySQL" src="https://img.shields.io/badge/SQL?style=for-the-badge&logo=sql&logoColor=white">
+    <img alt="MySQL" src="https://img.shields.io/badge/MySQL-87CEEB?style=for-the-badge&logo=MySQL&logoColor=white">
   </a>
 
    <a href="https://opencv.org/" target="_blank">
